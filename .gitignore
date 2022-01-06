@@ -1,0 +1,7 @@
+.env
+*.json
+data
+server/data
+client/data
+__pycache__
+venv
