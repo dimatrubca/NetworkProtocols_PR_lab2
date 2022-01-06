@@ -50,7 +50,7 @@ def start_quiz(keyword, callback):
 
 
 def run():
-    start_quiz('ss', lambda x: print('callback'))
+    start_quiz('', lambda x: print('callback'))
 
     try:
         while True:
